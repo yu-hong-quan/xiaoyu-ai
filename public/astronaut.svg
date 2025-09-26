@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+  <style>
+    .astronaut-helmet { fill: #4a90e2; }
+    .stars { fill: #fff; opacity: 0.8; }
+    .planet { fill: #ffd700; }
+  </style>
+  <circle class="planet" cx="650" cy="100" r="40"/>
+  <path class="astronaut-helmet" d="M300 350a150 150 0 1 1 300 0 150 150 0 0 1-300 0z"/>
+  <g class="stars">
+    <circle cx="150" cy="80" r="2"/>
+    <circle cx="250" cy="180" r="1.5"/>
+    <circle cx="500" cy="250" r="1.8"/>
+  </g>
+</svg>
