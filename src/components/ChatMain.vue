@@ -12,7 +12,7 @@
             <div class="new-chat-box">
                 <Welcome
                     icon="https://mdn.alipayobjects.com/huamei_iwk9zp/afts/img/A*s5sNRo5LjfQAAAAAAAAAAAAADgCCAQ/fmt.webp"
-                    title="欢迎使用小余私有知识库 💖" description="强大的雅痞 ~" />
+                    title="欢迎使用企业Ai智能体 💖" description="强大的雅痞 ~" />
                 <h2 class="title">开启新的智能对话</h2>
                 <p class="desc_1">点击下方按钮开始与我对话</p>
                 <div class="new-chat-btn-box" @click="handleNewChatClick">
